@@ -1,5 +1,5 @@
 # deeplearning-default-value
-** WELCOM FOR YOUR PR!!**
+**WELCOME FOR YOUR PR!!**
 
 ## Functions
 
