@@ -17,8 +17,8 @@
 
 | Object names in Chainer | Parameter names in Chainer | Chainer     | TensorFlow     | 
 |:----------------------- |:---------------------------|:-----------:|:--------------:|
-| LecunNormal | scale | [1.0](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.LeCunNormal)| No args[(1.0)](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal)|
-| Normal | scale | [0.05]((https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Normal)|             1.0|
+| LecunNormal | scale | [1.0](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.LeCunNormal)| No args([1.0](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal))|
+| Normal | scale | [0.05](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Normal)|             1.0|
 | Uniform | scale | [0.05](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Uniform)| No args|
 
 ### Symbol Meanings
