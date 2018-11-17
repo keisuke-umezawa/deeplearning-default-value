@@ -17,9 +17,9 @@
 
 | Object names in Chainer | Parameter names in Chainer | Chainer     | TensorFlow     |
 |:----------------------- |:---------------------------|:-----------:|:--------------:|
-| LecunNormal | scale | [1.0](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.LeCunNormal)| No args([1.0](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal))|
+| LecunNormal | scale | [1.0](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.LeCunNormal)| No args ([1.0](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal))|
 | Normal | scale | [0.05](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Normal)| [1.0](https://www.tensorflow.org/api_docs/python/tf/initializers/random_normal) or [0.05](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/RandomNormal)|
-| Uniform | scale | [0.05](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Uniform)|[min, max = 0.0, 1.0](https://www.tensorflow.org/api_docs/python/tf/initializers/random_uniform) or [0.05](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/RandomUniform)|
+| Uniform | scale | [0.05](https://docs.chainer.org/en/stable/reference/generated/chainer.initializers.LeCunNormal.html#chainer.initializers.Uniform)|[min, max = (0.0, 1.0)](https://www.tensorflow.org/api_docs/python/tf/initializers/random_uniform) or [(-0.05, 0.05)](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/RandomUniform)|
 
 ### Symbol Meanings
 - x: No implementations
