@@ -10,7 +10,7 @@
 
 | Object names in Chainer | Parameter names in Chainer | Chainer     | PyTorch     | TensorFlow     |
 |:----------------------- |:---------------------------|:-----------:|:-----------:|:--------------:|
-|Link  | initilizer | [LecunNormal](https://docs.chainer.org/en/stable/reference/initializers.html#weight-initializers)| Each link has <br> a different initializer.| [GlorotUniform](https://www.tensorflow.org/api_docs/python/tf/get_variable)|
+|Link  | initilizer | [LecunNormal](https://docs.chainer.org/en/stable/reference/initializers.html#weight-initializers)| Each link has <br> a different <br> initializer.| [GlorotUniform](https://www.tensorflow.org/api_docs/python/tf/get_variable)|
 
 ## Initializers
 
