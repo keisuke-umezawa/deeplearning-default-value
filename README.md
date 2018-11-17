@@ -33,8 +33,8 @@
 |      | beta2 | [1e-08](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [0.999](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [1e-08](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
 |      | eps | [1e-08](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [1e-08](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [1e-08](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
 |      | eta | [1.0](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [No args](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
-|      | weight_decay | [0.0](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [0.0]](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
-|      | amsgrad | [False](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [False]](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
+|      | weight_decay | [0.0](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [0.0](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
+|      | amsgrad | [False](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [False](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
 
 ## Rules
 ### Kinds of symbols
