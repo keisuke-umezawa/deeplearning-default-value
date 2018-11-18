@@ -36,7 +36,7 @@
 |      | weight_decay | [0.0](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [0.0](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
 |      | amsgrad | [False](https://docs.chainer.org/en/stable/reference/generated/chainer.optimizers.Adam.html) | [False](https://pytorch.org/docs/stable/optim.html#torch.optim.Adam) | [No args](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)|
 
-## Normalizations
+## Normalization methods
 
 | Object names in Chainer | Parameter names in Chainer | Chainer     | PyTorch     | TensorFlow     |
 |:----------------------- |:---------------------------|:-----------:|:-----------:|:--------------:|
