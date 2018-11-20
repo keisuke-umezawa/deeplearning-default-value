@@ -5,7 +5,7 @@
 
 | Object names in Chainer | Parameter names in Chainer | Chainer     | PyTorch     | TensorFlow     |
 |:----------------------- |:---------------------------|:-----------:|:-----------:|:--------------:|
-| dropout | ratio | [0.5](https://docs.chainer.org/en/stable/reference/generated/chainer.functions.dropout.html)| [0.5](https://pytorch.org/docs/stable/nn.html?highlight=dropou#torch.nn.functional.dropout)| [Required](https://www.tensorflow.org/api_docs/python/tf/nn/dropout)|
+| dropout | ratio | [0.5](https://docs.chainer.org/en/stable/reference/generated/chainer.functions.dropout.html)<br>(drop ratio)| [0.5](https://pytorch.org/docs/stable/nn.html?highlight=dropou#torch.nn.functional.dropout)<br>(drop ratio)| [Required](https://www.tensorflow.org/api_docs/python/tf/nn/dropout)<br>(keep ratio)|
 
 ## Links
 
